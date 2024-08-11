@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Cluster 0",
+    "Kesimpulan": "Cluster ini terdiri dari pelanggan dengan pendapatan rendah yang tidak memiliki pasangan dan sebagian besar memiliki satu anak atau satu remaja, serta sebagian besar adalah lulusan sarjana.",
+    "Strategi_pasar": "Fokus pada penawaran produk dan layanan yang terjangkau dengan fitur yang mendukung keluarga kecil. Kampanye pemasaran dapat menekankan manfaat praktis dan ekonomi dari produk, serta memberikan penawaran atau diskon khusus untuk keluarga dengan anak. Program dukungan tambahan seperti bantuan pendidikan atau subsidi bisa sangat bermanfaat."
+  },
+  {
+    "Name": "Cluster 1",
+    "Kesimpulan": "Pelanggan di cluster ini memiliki pendapatan tertinggi, sebagian besar memiliki pasangan, dan mayoritas tidak memiliki anak atau hanya memiliki satu remaja. Mereka adalah lulusan sarjana dan pascasarjana.",
+    "Strategi_pasar": "Tawarkan produk dan layanan premium yang menonjolkan kualitas dan eksklusivitas. Kampanye pemasaran sebaiknya fokus pada aspek status dan keunggulan produk, dengan pengalaman premium. Program loyalitas dengan rewards eksklusif dan penawaran khusus untuk pelanggan ini akan sangat menarik."
+  },
+  {
+    "Name": "Cluster 2",
+    "Kesimpulan": "Cluster ini mencakup pelanggan dengan pendapatan rendah yang semuanya memiliki pasangan dan sebagian besar memiliki satu anak, dengan latar belakang pendidikan sarjana.",
+    "Strategi_pasar": "Tawarkan produk dan layanan yang terjangkau serta bermanfaat untuk keluarga kecil. Kampanye pemasaran harus menekankan solusi keluarga dan keuntungan bagi anak. Dukungan tambahan seperti bantuan finansial atau materi edukasi untuk pengembangan anak dapat meningkatkan loyalitas pelanggan."
+  },
+  {
+    "Name": "Cluster 3",
+    "Kesimpulan": "Pelanggan di cluster ini memiliki pendapatan cukup tinggi, tidak memiliki pasangan, dan beberapa memiliki satu remaja, dengan latar belakang pendidikan sarjana dan pascasarjana.",
+    "Strategi_pasar": "Fokus pada produk berkualitas tinggi yang sesuai dengan gaya hidup mandiri. Kampanye pemasaran harus menekankan kebebasan dan prestasi pribadi, serta fitur-fitur premium. Program loyalitas yang menawarkan rewards yang relevan dengan gaya hidup independen mereka akan sangat menarik."
+  },
+  {
+    "Name": "Cluster 4",
+    "Kesimpulan": "Cluster ini terdiri dari pelanggan dengan pendapatan cukup tinggi yang semuanya memiliki pasangan dan sebagian besar memiliki satu remaja, serta lulusan sarjana dan pascasarjana.",
+    "Strategi_pasar": "Tawarkan produk dan layanan yang mendukung kebutuhan keluarga dan anak remaja. Kampanye pemasaran sebaiknya menekankan manfaat produk untuk kesejahteraan keluarga, dengan fokus pada kualitas dan kenyamanan. Program dukungan seperti penawaran khusus atau kegiatan edukasi untuk anak remaja dapat meningkatkan daya tarik produk."
+  }
+]
