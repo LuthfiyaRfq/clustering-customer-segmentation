@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+from src.visualization_pca import scatter_pca
 from src.model_loader import load_model
 from src.cluster_result import explanation_result
 
@@ -50,3 +51,6 @@ if submit:
     # Display the results
     container.table(df)
     explanation_result(predicted_cluster[0])
+
+    # Visualize the results
+    scatter_pca(new_data_df)
